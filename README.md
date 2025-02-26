@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Eric15774
-- 👀 I’m interested in working with the balena cloud and deploying projects
+- 👀 I’m teaching some basic coding skills using P5*js with my students
 - 🌱 I’m currently learning ...
 - 📫 You can reach me at:
 ----- Lenape Technical School
