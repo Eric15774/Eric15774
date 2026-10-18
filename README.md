@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Eric15774
-- 👀 I’m teaching some basic coding skills using P5*js with my students
+- 👀 I teach science.
+- I am a hobbyist in the kitchen. I bake and cook and maintain the recipe database at longwell.io 
 - 🌱 I’m currently learning ...
 - 📫 You can reach me at:
 ----- Lenape Technical School
