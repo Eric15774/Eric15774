@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Eric15774
 - 👀 I teach science.
-- I am a hobbyist in the kitchen. I bake and cook and maintain the recipe database at longwell.io 
-- 🌱 I’m currently learning ...
+- I am a hobbyist in the kitchen. I bake and cook and maintain the recipe database at www.longwell.io 
+- 🌱 I’m currently learning how Claude can make me more productive.
 - 📫 You can reach me at:
 ----- Lenape Technical School
 ----- www.MrLongwell.com
